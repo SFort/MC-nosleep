@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tf.ssf.sfort.stasispearl.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "tf.ssf.sfort.nosleep.mixin.BedBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
